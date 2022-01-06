@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\bin\Debug\net6.0\BookContract.deps.json
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\bin\Debug\net6.0\BookContract.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\bin\Debug\net6.0\ref\BookContract.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\bin\Debug\net6.0\BookContract.pdb
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\ref\BookContract.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\Contracts\BookContract\obj\Debug\net6.0\BookContract.pdb

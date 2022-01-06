@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.deps.json
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\bin\Debug\net6.0\ref\ServiceBus.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.pdb
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ref\ServiceBus.dll
+C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\obj\Debug\net6.0\ServiceBus.pdb

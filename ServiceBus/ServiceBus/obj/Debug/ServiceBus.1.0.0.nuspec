@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ServiceBus</id>
+    <version>1.0.0</version>
+    <authors>ServiceBus</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MassTransit.AspNetCore" version="7.3.0" exclude="Build,Analyzers" />
+        <dependency id="MassTransit.Extensions.DependencyInjection" version="7.3.0" exclude="Build,Analyzers" />
+        <dependency id="MassTransit.RabbitMQ" version="7.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\Desktop\MicroServiceLearning\ServiceBus\ServiceBus\bin\Debug\net6.0\ServiceBus.dll" target="lib\net6.0\ServiceBus.dll" />
+  </files>
+</package>

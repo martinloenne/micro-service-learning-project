@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c652e59c-b4e3-4e4f-bca0-5636fd09da8d": {
+      "ProjectGuid": "c652e59c-b4e3-4e4f-bca0-5636fd09da8d",
+      "DisplayName": "ServiceBus",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

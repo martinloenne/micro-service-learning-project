@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Repository</id>
+    <version>1.4.0</version>
+    <authors>Repository</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.14.1" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver.Core" version="2.14.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/libzstd.dll" buildAction="Content" />
+      <files include="any/net6.0/snappy32.dll" buildAction="Content" />
+      <files include="any/net6.0/snappy64.dll" buildAction="Content" />
+      <files include="any/net6.0/libsnappy64.so" buildAction="Content" />
+      <files include="any/net6.0/libzstd.so" buildAction="Content" />
+      <files include="any/net6.0/libsnappy64.dylib" buildAction="Content" />
+      <files include="any/net6.0/libzstd.dylib" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\Desktop\MicroServiceLearning\Repository\Repository\bin\Debug\net6.0\Repository.dll" target="lib\net6.0\Repository.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\win\native\libzstd.dll" target="content\libzstd.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\win\native\libzstd.dll" target="contentFiles\any\net6.0\libzstd.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\win\native\snappy32.dll" target="content\snappy32.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\win\native\snappy32.dll" target="contentFiles\any\net6.0\snappy32.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\win\native\snappy64.dll" target="content\snappy64.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\win\native\snappy64.dll" target="contentFiles\any\net6.0\snappy64.dll" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\linux\native\libsnappy64.so" target="content\libsnappy64.so" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\linux\native\libsnappy64.so" target="contentFiles\any\net6.0\libsnappy64.so" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\linux\native\libzstd.so" target="content\libzstd.so" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\linux\native\libzstd.so" target="contentFiles\any\net6.0\libzstd.so" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\osx\native\libsnappy64.dylib" target="content\libsnappy64.dylib" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\osx\native\libsnappy64.dylib" target="contentFiles\any\net6.0\libsnappy64.dylib" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\osx\native\libzstd.dylib" target="content\libzstd.dylib" />
+    <file src="C:\Users\Admin\.nuget\packages\mongodb.driver.core\2.14.1\runtimes\osx\native\libzstd.dylib" target="contentFiles\any\net6.0\libzstd.dylib" />
+  </files>
+</package>
